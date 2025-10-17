@@ -1,2 +1,7 @@
 # How-to-display-multiple-members-in-WinForms-MultiColumnComboBox
-This sample shows how to display multiple members in WinForms MultiColumnComboBox.
+This sample demonstrates how to display multiple members in the WinForms MultiColumnComboBox using Syncfusion controls. The MultiColumnComboBox is an advanced combo box control that enhances the traditional dropdown experience by allowing multiple columns to be displayed within the dropdown list. This feature is particularly useful when working with complex data sets where each item contains multiple fields that need to be visible to the user.
+## Core Features
+The MultiColumnComboBox is built by combining the base combo box functionality with the powerful Syncfusion Grid control. This integration provides a rich and flexible dropdown experience, enabling users to view and select items based on multiple attributes. The control supports virtual data binding, which ensures that even large datasets can be loaded and displayed efficiently without performance degradation.
+## Custom Filtering
+One of the key features of this control is its support for custom filtering. Developers can configure the combo box to filter items based on specific columns or across all columns using predicate-based filtering logic. This allows for a highly customizable and responsive user experience, especially in scenarios where users need to search and select from extensive data.
+This example is ideal for developers looking to enhance their WinForms applications with advanced UI components that improve usability and data presentation.
