@@ -1,7 +1,23 @@
-# How-to-display-multiple-members-in-WinForms-MultiColumnComboBox
-This sample demonstrates how to display multiple members in the WinForms MultiColumnComboBox using Syncfusion controls. The MultiColumnComboBox is an advanced combo box control that enhances the traditional dropdown experience by allowing multiple columns to be displayed within the dropdown list. This feature is particularly useful when working with complex data sets where each item contains multiple fields that need to be visible to the user.
+# How to Display Multiple Members in WinForms MultiColumnComboBox
+## Overview
+This sample demonstrates how to display multiple members in the Syncfusion WinForms MultiColumnComboBox control. MultiColumnComboBox is an advanced combo box that enhances the traditional dropdown experience by allowing multiple columns to be shown in the dropdown list.
+
+This feature is especially useful when working with complex datasets where each item contains multiple fields that should be visible to the user.
+
 ## Core Features
-The MultiColumnComboBox is built by combining the base combo box functionality with the powerful Syncfusion Grid control. This integration provides a rich and flexible dropdown experience, enabling users to view and select items based on multiple attributes. The control supports virtual data binding, which ensures that even large datasets can be loaded and displayed efficiently without performance degradation.
+- Combines base combo box functionality with the Syncfusion Grid control.
+- Provides a rich and flexible dropdown experience.
+- Supports virtual data binding for efficient handling of large datasets.
+- Ensures smooth performance without UI lag or memory issues.
+
 ## Custom Filtering
-One of the key features of this control is its support for custom filtering. Developers can configure the combo box to filter items based on specific columns or across all columns using predicate-based filtering logic. This allows for a highly customizable and responsive user experience, especially in scenarios where users need to search and select from extensive data.
-This example is ideal for developers looking to enhance their WinForms applications with advanced UI components that improve usability and data presentation.
+One of the key features of MultiColumnComboBox is its support for custom filtering:
+- Filter items based on specific columns.
+- Apply predicate-based filtering logic across all columns.
+- Create a responsive and intuitive search experience for users.
+
+## Use Case
+This example is ideal for developers looking to:
+- Enhance WinForms applications with advanced UI components.
+- Improve usability and data presentation.
+- Provide users with a more informative and interactive selection experience.
